@@ -16,5 +16,3 @@
 * GitHub
 * Travis-ci
 * Sonarcloud
-
-
